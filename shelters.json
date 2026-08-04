@@ -22,5 +22,11 @@
     "LocationName": "City General Base",
     "CasualtyCount": 45,
     "WaterReserveHours": 12
+  },
+  {
+    "ShelterId": "A78",
+    "LocationName": "Syria",
+    "CasualtyCount": 27,
+    "WaterReserveHours": 2
   }
 ]
