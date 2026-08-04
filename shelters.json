@@ -1,0 +1,26 @@
+[
+  {
+    "ShelterId": "23",
+    "LocationName": "Arizona State",
+    "CasualtyCount": 980,
+    "WaterReserveHours": 8
+  },
+  {
+    "ShelterId": "S3",
+    "LocationName": "North River School",
+    "CasualtyCount": 8,
+    "WaterReserveHours": 1
+  },
+  {
+    "ShelterId": "S1",
+    "LocationName": "Sector 4 Camp",
+    "CasualtyCount": 15,
+    "WaterReserveHours": 3.5
+  },
+  {
+    "ShelterId": "S2",
+    "LocationName": "City General Base",
+    "CasualtyCount": 45,
+    "WaterReserveHours": 12
+  }
+]
