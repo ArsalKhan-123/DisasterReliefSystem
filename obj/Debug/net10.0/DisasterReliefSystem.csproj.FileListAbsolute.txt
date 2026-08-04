@@ -12,3 +12,4 @@ C:\Users\ARSAL\Downloads\Linux Data\Downloads\OOP ( Data Science )\DisasterRelie
 C:\Users\ARSAL\Downloads\Linux Data\Downloads\OOP ( Data Science )\DisasterReliefSystem\obj\Debug\net10.0\DisasterReliefSystem.pdb
 C:\Users\ARSAL\Downloads\Linux Data\Downloads\OOP ( Data Science )\DisasterReliefSystem\obj\Debug\net10.0\DisasterReliefSystem.genruntimeconfig.cache
 C:\Users\ARSAL\Downloads\Linux Data\Downloads\OOP ( Data Science )\DisasterReliefSystem\obj\Debug\net10.0\ref\DisasterReliefSystem.dll
+C:\Users\ARSAL\Downloads\Linux Data\Downloads\OOP ( Data Science )\DisasterReliefSystem\obj\Debug\net10.0\DisasterReliefSystem.sourcelink.json

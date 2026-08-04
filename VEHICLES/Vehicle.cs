@@ -53,5 +53,5 @@ public abstract class Vehicle
         return true;
     }
 
-    bool CanTraverseTerrain(int terrainSeverityCode);
+   public abstract bool CanTraverseTerrain(int terrainSeverityCode);
 }
